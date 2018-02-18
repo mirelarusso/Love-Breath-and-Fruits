@@ -170,25 +170,7 @@
         letter-spacing : 0.1em;
         color : #263358;
         }
-        .wf-active .main h3, .wf-active .preamble h3 {
-        font-weight : 900;
-        }
-        .main h3:after, .preamble h3:after, .select:after {
-        visibility : visible;
-        display : block;
-        }
-        .main p, .preamble p {
-        font-size : 2rem;
-        }
-        .wf-active .main p, .wf-active .preamble p {
-        line-height : 1.4;
-        }
-        .next a, .previous a, .viewall a, .zen-resources a, .summary p:nth-child(2) a {
-        transition-property : none;
-        }
-        .next a:after, .previous a:after, .viewall a:after, .zen-resources a:after, .summary p:nth-child(2) a:after {
-        opacity : 0;
-        }
+       
         [role="banner"] h1 {
         padding : 1em 0 0;
         letter-spacing : 0.1em;
@@ -196,11 +178,6 @@
         font-weight : 900;
         color : #182e4f;
         visibility : hidden;
-        }
-        [role="banner"] h1:before {
-        content : "CSS Zen Garments";
-        visibility : visible;
-        display : block;
         }
         [role="banner"] h1:after {
         content : "Put Love in All";
@@ -214,19 +191,12 @@
         color : rgba(255, 0, 0, 0.4);
         }
         [role="banner"] h2 {
-        visibility : hidden;
-        display : none;
-        text-transform : uppercase;
-        font-weight : 400;
-        color : rgba(243, 7, 7, 0.5);
-        }
-        [role="banner"] h2:after {
-        content : "Impeccable Life Quality";
-        visibility : visible;
-        display : inherit;
-        }
-    
-    
+            visibility : hidden;
+            display : none;
+            text-transform : uppercase;
+            font-weight : 400;
+            color : rgba(243, 7, 7, 0.5);
+            }
         .summary p {
         letter-spacing : 0.1em;
         font-size : 1.8rem;
