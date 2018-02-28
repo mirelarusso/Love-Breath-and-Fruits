@@ -3,52 +3,46 @@
     padding : 0;
     }
     * {
-        margin : 0;
-        padding : 0;
-        }
-        html {
-        font-size : 62.5%;
-        }
-        body {
-        font-family : Helvetica;
-        color : rgb(39, 21, 15);
-        background : url("http://ognature.com/wp-content/uploads/2017/05/flower-light-flowers-nature-abstract-spring-petals-wallpaper-laptop.jpg") 50% 350px no-repeat 
-        #cebb98;
-        
-        }
-        h1 {
-        font : normal 4.2rem Helvetica, Arial;
-        margin : 0 0 0.4em;
-        }
-        h2 {
-        font : normal 1.8rem Helvetica, Arial, sans-serif;
-        margin : 0 0 1em;
-        }
-        h3 {
-            font : normal 1.5rem Helvetica, Arial, sans-serif;
-            margin : 0 0 1em;
-            }
-            h4, h5, h6 {
-            font : normal 1.2rem Helvetica, Arial, sans-serif;
-            margin : 0 0 1em;
-            }
-        .wf-active body, .wf-active h1, .wf-active h2, .wf-active h3, .wf-active h4, .wf-active h5, .wf-active h6 {
-        font-family : "effra";
-        }
-        p, ul, dl, ol, table {
-        font-size : 16px;
-        margin : 0 0 1.5em;
-        }
-        .wf-active p {
-        font-weight : 300;
-        }
-        form {
-        margin : 0 0 1.5em;
-        }
-        label {
-        font-size : 1.6rem;
-        }
-        a {
+    margin : 0;
+    padding : 0;
+    }
+    html {
+    font-size : 62.5%;
+    }
+    body {
+    font-family : Helvetica;
+    color : rgb(39, 21, 15);
+    background : url("https://wallpaper.wiki/wp-content/uploads/2017/04/wallpaper.wiki-Download-Free-Beach-Sand-Wallpaper-PIC-WPB004038.jpg") no-repeat
+    #d4cbb6;
+    background-size: auto;
+    }
+    h1 {
+    font : normal 4.2rem Helvetica, Arial;
+    margin : 0 0 0.4em;
+    }
+    h2 {
+    font : normal 1.8rem Helvetica, Arial, sans-serif;
+    margin : 0 0 1em;
+    }
+    
+    .wf-active body, .wf-active h1, .wf-active h2, .wf-active h3, .wf-active h4, .wf-active h5, .wf-active h6 {
+    font-family : "effra";
+    }
+    p, ul, dl, ol, table {
+    font-size : 16px;
+    margin : 0 0 1.5em;
+    }
+    .wf-active p {
+    font-weight : 300;
+    }
+    form {
+    margin : 0 0 1.5em;
+    }
+    label {
+    font-size : 1.6rem;
+    }
+       
+       a {
         text-decoration : none;
         color : #c74821;
         position : relative;
@@ -133,49 +127,6 @@
         margin : 0 auto;
         }
         
-        * {
-        margin : 0;
-        padding : 0;
-        }
-        * {
-        margin : 0;
-        padding : 0;
-        }
-        html {
-        font-size : 62.5%;
-        }
-        body {
-        font-family : Helvetica;
-        color : rgb(39, 21, 15);
-        background : url("http://ognature.com/wp-content/uploads/2017/05/flower-light-flowers-nature-abstract-spring-petals-wallpaper-laptop.jpg") 50% 350px no-repeat 
-        #d4cbb6;
-        
-        }
-        h1 {
-        font : normal 4.2rem Helvetica, Arial;
-        margin : 0 0 0.4em;
-        }
-        h2 {
-        font : normal 1.8rem Helvetica, Arial, sans-serif;
-        margin : 0 0 1em;
-        }
-        
-        .wf-active body, .wf-active h1, .wf-active h2, .wf-active h3, .wf-active h4, .wf-active h5, .wf-active h6 {
-        font-family : "effra";
-        }
-        p, ul, dl, ol, table {
-        font-size : 16px;
-        margin : 0 0 1.5em;
-        }
-        .wf-active p {
-        font-weight : 300;
-        }
-        form {
-        margin : 0 0 1.5em;
-        }
-        label {
-        font-size : 1.6rem;
-        }
         input.empty::-webkit-input-placeholder, textarea.empty::-webkit-input-placeholder {
         color : red;
         }
