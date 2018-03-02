@@ -2,19 +2,15 @@
     margin : 0;
     padding : 0;
     }
-    * {
-    margin : 0;
-    padding : 0;
-    }
     html {
     font-size : 62.5%;
     }
     body {
     font-family : Helvetica;
     color : rgb(39, 21, 15);
-    background : url("https://wallpaper.wiki/wp-content/uploads/2017/04/wallpaper.wiki-Download-Free-Beach-Sand-Wallpaper-PIC-WPB004038.jpg") no-repeat
-    #d4cbb6;
+    background : beige no-repeat;
     background-size: auto;
+    background-image: url("https://wallpaper.wiki/wp-content/uploads/2017/04/wallpaper.wiki-Download-Free-Beach-Sand-Wallpaper-PIC-WPB004038.jpg") repeat;
     }
     h1 {
     font : normal 4.2rem Helvetica, Arial;
@@ -609,7 +605,7 @@
         left : 75%;
         width : 10em;
         text-align : left;
-        font-size : 1.5rem;
+        font-size : 2.1rem;
         letter-spacing : 0;
         }
        
